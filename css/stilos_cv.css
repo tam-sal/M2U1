@@ -84,7 +84,7 @@ footer {
   font-size: 1.6rem;
   padding: 10px;
   background: linear-gradient(
-    to bottom,
+    to bottom right,
     rgba(248, 246, 246, 0.5),
     rgba(0, 0, 0, 1)
   );
