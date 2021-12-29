@@ -1,0 +1,109 @@
+body {
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 1));
+  color: rgb(255, 237, 215);
+  font-family: "Montserrat", sans-serif;
+  margin: 25px;
+}
+
+.perfil {
+  column-count: 3;
+  column-gap: 2em;
+  display: inline-flex;
+}
+
+h1 {
+  color: rgba(255, 255, 255, 1);
+}
+
+h2 {
+  color: rgba(255, 255, 255, 0.85);
+  font-family: "Rajdhani", sans-serif;
+  font-size: 1.8rem;
+}
+
+h2:hover {
+  color: rgb(161, 252, 161);
+}
+
+p {
+  text-align: justify;
+}
+
+a {
+  color: rgba(255, 255, 255, 0.904);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgba(0, 255, 255, 0.856);
+  text-decoration: underline;
+}
+
+a img:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 9px;
+}
+
+footer {
+  text-align: center;
+}
+
+.img_centro {
+  border-radius: 100px 20px 100px 10px;
+  box-shadow: 30px -10px 20px rgba(255, 237, 215, 0.246);
+  border: 1px dashed rgba(255, 237, 215, 0.5);
+  margin: 10px 0px;
+}
+
+.foto-perfil img {
+  border-radius: 80px;
+  height: 300px;
+  width: 1800px;
+}
+
+.foto-perfil {
+  text-align: center;
+  margin: 0px 10px;
+  padding: 0px;
+}
+
+.derechos {
+  padding: 10px 0px;
+  margin: 0px 50px;
+}
+
+.far {
+  margin: 0px 20px;
+  font-size: 2em;
+  padding: 5px;
+  color: rgb(134, 185, 156);
+}
+
+.fab {
+  margin: 0px 20px;
+  font-size: 1.6rem;
+  padding: 10px;
+  background: linear-gradient(
+    to bottom,
+    rgba(248, 246, 246, 0.5),
+    rgba(0, 0, 0, 1)
+  );
+  border-radius: 9px;
+}
+
+.fab:hover {
+  border-radius: 5px;
+  box-shadow: 5px 5px 10px rgba(240, 238, 237, 0.7);
+}
+
+.fa-facebook-f {
+  color: rgba(74, 100, 248, 0.7);
+}
+
+.fa-twitter {
+  color: rgba(43, 200, 240, 0.7);
+}
+
+.fa-instagram {
+  color: rgba(243, 122, 74, 0.7);
+}
