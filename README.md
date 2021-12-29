@@ -15,5 +15,8 @@
 
 6- element > fa: estilizar iconos de redes sociales más especificos, fa-facebook-f, fa-twitter, fa-instagram usando background con linear gradient y box-shadow.
 
+8- Uso y manipulación de iconos importados.
+
+
 
 ![css_logo](https://user-images.githubusercontent.com/95254477/147617309-c0c9bb93-f3b9-43f4-bd78-b2213bf82053.png)
