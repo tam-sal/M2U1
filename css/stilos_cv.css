@@ -82,7 +82,11 @@ footer {
 .fab {
   margin: 0px 20px;
   font-size: 1.6rem;
+  width: 45px;
+  height: 45px;
   padding: 10px;
+  text-align: center;
+  box-sizing: border-box;
   background: linear-gradient(
     to bottom right,
     rgba(248, 246, 246, 0.493),
